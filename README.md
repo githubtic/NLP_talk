@@ -29,7 +29,12 @@ python -m pip install speech_recognition
 python -m pip install pyttsx3
 
 modify the chat.py code with the following or using your own keys
+
 openai.organization = "org-h5VxbC88EYAQrQMOgMIiT9bL"
+
+
 openai.api_key = "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"
+
+
 
 and run the chat.py by python chat.py
